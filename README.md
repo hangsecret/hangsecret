@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hangsecret
-- 👀 I’m a Operations Engineer
+- 👀 I’m a Devops
 - 💞️ welcome my GitHub home
 - 📫 I'm a student from UJS
 <!-- - 🌱 I’m currently learning ...
