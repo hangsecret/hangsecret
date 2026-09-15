@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @hangsecret
 - 👀 I’m a Devops
 - 💞️ welcome to my GitHub home
-- 📫 here is my home page: https://hangsecret.cn/ , welcome to contact me
+- 📫 hangsecret@163.com
+- 🌐 [hangsecret](https://hangsecret.cn/)
+- 🏆 working for [Leapmotor](https://www.leapmotor.com/)
 <!-- - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
