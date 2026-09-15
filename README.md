@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hangsecret
 - 👀 I’m a Devops
-- 💞️ welcome my GitHub home
-- 📫 I'm a student from UJS
+- 💞️ welcome to my GitHub home
+- 📫 here is my home page: https://hangsecret.cn/ , welcome to contact me
 <!-- - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
